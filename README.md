@@ -12,3 +12,7 @@ Nesta aula foi feito um rápido programa com o controle de mouse e teclado de ma
 Aula 2: resolução da aula 2 é justamente para entender o funcionamento do Python para a análise de dados, extração de bases, tratamento e filtragem de dados, e por final, a geração de gráficos com o intúito de tirar conclusões para a possível tomada de decisão. Utilizou-se principalmente as bibliotecas do Pandas e também a Plotly.express para a geração dos dashboards.
 
 ![image](https://user-images.githubusercontent.com/93691852/157358553-1478b914-f461-4db6-b598-feff262e54f6.png)
+
+Aula 3: Problemática onde deve-se atualizar valores buscados na web de maneira automatizada, utilizando-se da biblioteca Selenium e seu repartimento WebDriver, pois ambos permitirão um controle do seu navegador. Desta maneira a base de dados que deve ser baixada possa ser atualizada com os novos valores encontrados, e para finalizar devemos exportar a nova base após os cálculos finalizados.
+
+![image](https://user-images.githubusercontent.com/93691852/161082532-34282bfe-d2e7-4245-98a7-ac8b25b5ee3d.png)
